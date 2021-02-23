@@ -1,3 +1,4 @@
+include ':dfm'
 include ':main'
 include ':core'
 include ':app'

@@ -3,7 +3,7 @@
     package="com.oratakashi.hilt.main">
 
     <application>
-        <activity android:name=".ui.main.MainActivity"></activity>
+        <activity android:name=".ui.main.LibraryActivity"></activity>
     </application>
 
 </manifest>

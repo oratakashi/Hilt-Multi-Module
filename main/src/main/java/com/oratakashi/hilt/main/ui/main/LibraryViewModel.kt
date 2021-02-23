@@ -8,7 +8,7 @@ import io.reactivex.disposables.CompositeDisposable
 import javax.inject.Inject
 
 @HiltViewModel
-class MainViewModel @Inject constructor(
+class LibraryViewModel @Inject constructor(
     private val endpoint: ApiEndpoint
 ) : ViewModel() {
     fun getData(){
